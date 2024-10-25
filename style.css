@@ -48,6 +48,9 @@
   margin-bottom: 12px;
   font-weight: 800;
 }
+.card h2:hover{
+  color:hsl(47, 88%, 63%);
+}
 .card p {
   color: hsl(0, 0%, 42%);
   margin-bottom: 24px;
